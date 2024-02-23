@@ -1,0 +1,6 @@
+@InfraData.Domain_HostAddress = http://localhost:5265
+
+GET {{InfraData.Domain_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

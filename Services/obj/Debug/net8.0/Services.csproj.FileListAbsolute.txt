@@ -1,0 +1,6 @@
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\Services\obj\Debug\net8.0\Services.MvcApplicationPartsAssemblyInfo.cache

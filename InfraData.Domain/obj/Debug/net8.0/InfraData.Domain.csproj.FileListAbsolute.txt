@@ -1,0 +1,7 @@
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.csproj.AssemblyReference.cache
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.AssemblyInfoInputs.cache
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.AssemblyInfo.cs
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.csproj.CoreCompileInputs.cache
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.MvcApplicationPartsAssemblyInfo.cs
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\InfraData.Domain\obj\Debug\net8.0\InfraData.Domain.MvcApplicationPartsAssemblyInfo.cache
