@@ -23,12 +23,25 @@ namespace APi_Ex1.Controllers
         }
 
 
-        [HttpGet("All Users registered on DB")]
+        [HttpGet("Search for all Users registered on DB")]
         public async Task<ActionResult<Usuario>> NomeUsuario()
         {//No users registered in the database yet.
             var  UsuarioReturn= await db.UsuariosDoQuiz.ToListAsync();
 
             return Ok(UsuarioReturn);
+        }
+
+       
+
+        [HttpGet("Get through user{id}")]
+        public async Task<ActionResult<Usuario>> GetUserForID(int ID)
+        {
+            var USerID = await db.UsuariosDoQuiz.Where(x => x.Id == ID).FirstOrDefaultAsync();
+
+            if (USerID == null)
+                return NotFound("USer not found.\nTry with another id.");
+
+            return Ok(USerID);
         }
     }
 }

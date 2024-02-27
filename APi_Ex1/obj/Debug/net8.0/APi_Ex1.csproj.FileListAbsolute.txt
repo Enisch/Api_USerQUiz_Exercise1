@@ -108,3 +108,17 @@ D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\Servi
 D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\Services_DependencyInjection.pdb
 D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\ContextoBd.pdb
 D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\Infradata.Domain_.pdb
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\obj\Debug\net8.0\APi_Ex1.sourcelink.json
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\AutoMapper.dll
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\Dtos&&Mappings.dll
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\Repositories.dll
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\Dtos&&Mappings.pdb
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\Repositories.pdb
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programas Visual Studio\API's\Api(Exercicio 1)\APi_Ex1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

@@ -1,6 +1,7 @@
  using Microsoft.EntityFrameworkCore;
 
 using Services_DependencyInjection;
+using Services_DependencyInjection.Services;
 
 
 
@@ -8,7 +9,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.Servicos(builder.Configuration);//Não utiliza o Bd ainda, pois ele não existe;
+builder.Services.Servicos(builder.Configuration);
+builder.Services.JwtServices(builder.Configuration);
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
